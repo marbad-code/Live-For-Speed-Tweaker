@@ -1,0 +1,9 @@
+C:\Users\John Cena\source\repos\Live For Speed Tweaker\Live For Speed Tweaker\bin\Debug\Live For Speed Tweaker.exe
+C:\Users\John Cena\source\repos\Live For Speed Tweaker\Live For Speed Tweaker\bin\Debug\Live For Speed Tweaker.pdb
+C:\Users\John Cena\source\repos\Live For Speed Tweaker\Live For Speed Tweaker\obj\Debug\Live For Speed Tweaker.csprojAssemblyReference.cache
+C:\Users\John Cena\source\repos\Live For Speed Tweaker\Live For Speed Tweaker\obj\Debug\Live_For_Speed_Tweaker.TweakerForm.resources
+C:\Users\John Cena\source\repos\Live For Speed Tweaker\Live For Speed Tweaker\obj\Debug\Live_For_Speed_Tweaker.Properties.Resources.resources
+C:\Users\John Cena\source\repos\Live For Speed Tweaker\Live For Speed Tweaker\obj\Debug\Live For Speed Tweaker.csproj.GenerateResource.cache
+C:\Users\John Cena\source\repos\Live For Speed Tweaker\Live For Speed Tweaker\obj\Debug\Live For Speed Tweaker.csproj.CoreCompileInputs.cache
+C:\Users\John Cena\source\repos\Live For Speed Tweaker\Live For Speed Tweaker\obj\Debug\Live For Speed Tweaker.exe
+C:\Users\John Cena\source\repos\Live For Speed Tweaker\Live For Speed Tweaker\obj\Debug\Live For Speed Tweaker.pdb
